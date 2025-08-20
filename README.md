@@ -30,7 +30,7 @@ Our work blends:
 ## 📂 Public Projects
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Uniswap V2/V3/Curve Arbitrage Flashloan Bot](https://github.com/mevSeacherDev/uniswap-v3-mev-bot) | Modular MEV bot with flashloan + Advance routing | 🚧 Active |
+| [Uniswap V2/V3/Curve Arbitrage Flashloan Bot](https://github.com/mevSearcherDev/uniswap-v3-mev-bot) | Modular MEV bot with flashloan + Advance routing | 🚧 Active |
 | Arbitrage Simulator | Backtest and simulate profitable paths across DEXes | 🧪 Research |
 | MEV Attack Vectors DB | Curated list of historical and active MEV exploits | 📚 Research |
 
@@ -49,7 +49,7 @@ We welcome:
 - Discussions on arbitrage theory
 - Benchmarks against known searchers
 
-📬 Contact: [Issues](https://github.com/mevSeacherDev/mevSeacherDev/issues) or discussions tab.
+📬 Contact: [Issues](https://github.com/mevSearcherDev/mevSearcherDev/issues) or discussions tab.
 
 ---
 
