@@ -1,6 +1,6 @@
 # 🧪 mevSeacherDev
 
-Applied Research in On-Chain Arbitrage, AI-Powered MEV Strategies, and High-Performance DeFi Bots
+Applied Research in On-Chain Arbitrage, AI-Powered MEV Strategies, and High-Performance DeFi Bots.
 
 ---
 
